@@ -1,0 +1,2 @@
+# CodeAlpha_HandwrittenRecognition
+Handwritten Recognition using Machine Learning
